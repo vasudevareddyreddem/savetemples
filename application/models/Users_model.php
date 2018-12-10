@@ -80,6 +80,20 @@ class Users_model extends CI_Model
 		return $this->db->get()->result_array();
 	}
 	
+	/* media purpose*/
+		public  function get_media_list(){
+		$this->db->select('*')->from('media');
+		$this->db->where('status',1);
+		$this->db->order_by('m_id','desc');
+		return $this->db->get()->result_array();
+	}	
+	public  function get_volunteer_list(){
+		$this->db->select('*')->from('volunteers');
+		$this->db->where('status',1);
+		$this->db->order_by('v_id','asc');
+		return $this->db->get()->result_array();
+	}
+	
 	
 
 }

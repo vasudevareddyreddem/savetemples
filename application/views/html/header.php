@@ -102,12 +102,12 @@
                                             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                                               <ul class="nav navbar-nav">
                                                 <li class="<?php if($this->uri->segment(1)==''){ echo "menu-active"; } ?>"><a class="page-scroll" href="<?php echo base_url(); ?>">Home <span class="sr-only">(current)</span></a></li>
-                                                  <li class="<?php if($this->uri->segment(1)=='certificates'){ echo "menu-active"; } ?>"><a class="page-scroll" href="<?php echo base_url('certificates'); ?>">Committee</a></li>
+                                                  <li class="<?php if($this->uri->segment(1)=='committe'){ echo "menu-active"; } ?>"><a class="page-scroll" href="<?php echo base_url('committe'); ?>">Committee</a></li>
                                                <li class="<?php if($this->uri->segment(1)=='aboutus'){ echo "menu-active"; } ?>"><a class="page-scroll" href="<?php echo base_url('aboutus'); ?>">Activities</a></li> 
 											
 												<li class="<?php if($this->uri->segment(1)=='gallery'){ echo "menu-active"; } ?>"><a class="page-scroll" href="<?php echo base_url('gallery'); ?>">Gallery</a>
 												</li>
-												<li class="<?php if($this->uri->segment(1)=='events'){ echo "menu-active"; } ?>"><a class="page-scroll" href="<?php echo base_url('events'); ?>">Media Coverage</a></li>
+												<li class="<?php if($this->uri->segment(1)=='Mediacoverage'){ echo "menu-active"; } ?>"><a class="page-scroll" href="<?php echo base_url('Mediacoverage'); ?>">Media Coverage</a></li>
 												
                                                	<li class="<?php if($this->uri->segment(1)=='donate'){ echo "menu-active"; } ?>"><a class="page-scroll" href="<?php echo base_url('donate'); ?>">Donate</a></li>
                                                 

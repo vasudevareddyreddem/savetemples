@@ -44,7 +44,7 @@ class Contactus extends Front_end {
 				$this->email->set_newline("\r\n");
 				$this->email->set_mailtype("html");
 				$this->email->from($post['email']);
-				$this->email->to('info@mithrasevasamthi.com');
+				$this->email->to('info@savetemples.com');
 				$this->email->subject('Contact us - Request');
 
 				$msg='Name:'.$post['name'].'<br> Email :'.$post['email'].'<br> Phone  number :'.$post['phone'].'<br> Message :'.$post['message'];

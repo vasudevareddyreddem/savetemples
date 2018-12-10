@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Mithra Seva Samtithi Admin Pannel</title>
+  <title>Save Temples Admin Pannel</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -40,9 +40,9 @@
     <!-- Logo -->
     <a href="index.php" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>M</b>SS</span>
+      <span class="logo-mini"><b>Save Temples </b></span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Mss</b> Admin</span>
+      <span class="logo-lg"><b>Save Temples </b> Admin</span>
     </a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top">
@@ -137,7 +137,7 @@
          
         </li> 
 		
-		<li class="treeview">
+		<!--<li class="treeview">
           <a href="#">
             <i class="fa fa-files-o"></i>
             <span>Event</span>
@@ -149,8 +149,8 @@
             <li><a href="<?php echo base_url('event'); ?>"><i class="fa fa-circle-o"></i> Add</a></li>
             <li><a href="<?php echo base_url('event/lists'); ?>"><i class="fa fa-circle-o"></i> List</a></li>
           </ul>
-        </li>
-		<li class="treeview">
+        </li>-->
+		<!--<li class="treeview">
           <a href="#">
             <i class="fa fa-files-o"></i>
             <span>Certificates</span>
@@ -162,7 +162,7 @@
             <li><a href="<?php echo base_url('certificate'); ?>"><i class="fa fa-circle-o"></i> Add</a></li>
             <li><a href="<?php echo base_url('certificate/lists'); ?>"><i class="fa fa-circle-o"></i> List</a></li>
           </ul>
-        </li>
+        </li>-->
 		<li class="treeview">
           <a href="#">
             <i class="fa fa-files-o"></i>
@@ -179,6 +179,19 @@
 		<li class="treeview">
           <a href="#">
             <i class="fa fa-files-o"></i>
+            <span>Media</span>
+            <span class="pull-right-container">
+              <span class="label label-primary pull-right"></span>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+            <li><a href="<?php echo base_url('media'); ?>"><i class="fa fa-circle-o"></i> Add</a></li>
+            <li><a href="<?php echo base_url('media/lists'); ?>"><i class="fa fa-circle-o"></i> List</a></li>
+          </ul>
+        </li>
+		<li class="treeview">
+          <a href="#">
+            <i class="fa fa-files-o"></i>
             <span>Volunteer</span>
             <span class="pull-right-container">
               <span class="label label-primary pull-right"></span>
@@ -189,7 +202,7 @@
             <li><a href="<?php echo base_url('volunteer/lists'); ?>"><i class="fa fa-circle-o"></i> List</a></li>
           </ul>
         </li>
-		<li class="treeview">
+		<!--<li class="treeview">
           <a href="#">
             <i class="fa fa-files-o"></i>
             <span>TALK ABOUT US</span>
@@ -214,7 +227,7 @@
             <li><a href="<?php echo base_url('blogs'); ?>"><i class="fa fa-circle-o"></i> Add</a></li>
             <li><a href="<?php echo base_url('blogs/lists'); ?>"><i class="fa fa-circle-o"></i> List</a></li>
           </ul>
-        </li>
+        </li>-->
 	
         
        

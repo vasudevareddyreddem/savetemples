@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/save_temples/';
+$config['base_url'] = 'http://localhost/savetemples/';
 $config['keyId'] ='rzp_test_FMROR38S2ObKGw';
 $config['API_keySecret'] = '4ZAmE5b07syPo0P1WbFUNr7X';
 
