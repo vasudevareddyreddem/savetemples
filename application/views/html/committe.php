@@ -28,7 +28,7 @@
                         <span>
                             <img src="<?php echo base_url(); ?>assets/vendor/images/icon.png" alt="icon">
                         </span>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec erat auctor, placerat ligula nec, cursus urna. Aliquam nec justo mollis, facilisis velit non, rutrum ex.</p>
+                        <p>A dedicated and committed team joined mission of  protecting Santana Dharma.</p>
                     </div>
                     <!-- Section heading End -->
                 </div>

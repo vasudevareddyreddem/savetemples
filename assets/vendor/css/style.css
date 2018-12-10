@@ -4838,10 +4838,10 @@ aside .widget-donation .more-donation p {
     font-size: 20px;
   }
 }
-.about-us p {
+.about-us p, .sponsor p{
   margin-bottom: 20px;
 }
-.about-us p:before {
+.about-us p:before{
     content: "\f064";
     font: normal normal normal 14px/1 FontAwesome;
     margin-right: 10px;
@@ -6766,3 +6766,10 @@ aside .widget-tags ul li a {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.mb-20{
+    margin-bottom: 20px;
+}
+.mb-40{
+    margin-bottom: 40px;
+}

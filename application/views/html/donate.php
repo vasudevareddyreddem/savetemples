@@ -23,15 +23,16 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12">
-                    <div class="about-us">
-                        <h3>Request for Sponsership</h3>
-                        <div class="row">
+                    <div class="">
+                        <h3 class="mb-20">Request for Sponsership</h3>
+                        <p class="mb-40">We are associated with few Gowshala's, senior Citizen Homes, Archakas, Poor Artist's, organizations, Veda vidyalaya's. Your contribution's as per your request will be forward to the organizations. Transaction details will be sent to the sponsor. Details of the Bank account are given at "Donate". Pls send your contributions to support the cause of Sanathan Dharma.</p>
+                        <div class="row about-us">
                             <div class="col-md-3">
                                 <img src="<?php echo base_url(); ?>assets/vendor/images/donate/cow.png" alt="image" width="100px" height="100px">
                                 <p class="p-custom">Gowshala</p>   
                             </div>
                             <div class="col-md-3">
-                                <img src="<?php echo base_url(); ?>assets/vendor/images/donate/citizen.jpg" alt="image" width="100px" height="100px">
+                                <img src="<?php echo base_url(); ?>assets/vendor/images/donate/citizen.jpg" alt="image" width="150px" height="100px">
 						<p class="p-custom">Senior Citizen Home</p> 
                             </div>
                             <div class="col-md-3">
@@ -39,11 +40,11 @@
 						<p class="p-custom">Veda Patasala</p>   
                             </div>
                             <div class="col-md-3">
-                                <img src="<?php echo base_url(); ?>assets/vendor/images/donate/harikatha.png" alt="image" width="100px" height="100px">
+                                <img src="<?php echo base_url(); ?>assets/vendor/images/donate/harikatha.jpg" alt="image" width="100px" height="100px">
 						<p class="p-custom">Poor Harikatha, MangalaVaayidyam Artists</p>  
                             </div>
                             <div class="col-md-3">
-                                <img src="<?php echo base_url(); ?>assets/vendor/images/donate/temple.jpg" alt="image" width="100px" height="100px">
+                                <img src="<?php echo base_url(); ?>assets/vendor/images/donate/temple.jpg" alt="image" width="150px" height="100px">
 						<p class="p-custom">Ancient Temple Renovation, Structure, Dwajastamba, Yagasaala, Koneru (temples lakes), compound wall</p> 
                             </div>
                             <div class="col-md-3">
@@ -51,7 +52,7 @@
 						<p class="p-custom">Literature, Audio , Video documentation etc</p>
                             </div>
                             <div class="col-md-3">
-                                <img src="<?php echo base_url(); ?>assets/vendor/images/donate/welfare.png" alt="image" width="150px" height="100px">
+                                <img src="<?php echo base_url(); ?>assets/vendor/images/donate/welfare.jpg" alt="image" width="150px" height="100px">
 						<p class="p-custom">Archaka welfare</p>
                             </div>
                         
