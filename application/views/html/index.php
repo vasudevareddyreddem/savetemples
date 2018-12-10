@@ -9,7 +9,7 @@
                         <div class="slider-content-area">
                             <div class="container">
                                 <div class="slider-content">
-                                    <p>“Let us protect Sanatana Dharma”</p>
+                                    <p>“Let us protect Santhana Dharma”</p>
                                     <h1>Participate & <span>donate!</span></h1>
                                     
                                     <!--<div class="slider-btn">
@@ -31,7 +31,7 @@
                         <div class="slider-content-area">
                             <div class="container">
                                 <div class="slider-content">
-                                    <p>“Let us protect Sanatana Dharma”</p>
+                                    <p>“Let us protect Santhana Dharma”</p>
                                     <h1>Participate & <span>donate!</span></h1>
                                     <!--<div class="slider-btn">
                                         <a href="#">donate now</a>
@@ -53,7 +53,7 @@
                         <div class="slider-content-area">
                             <div class="container">
                                 <div class="slider-content">
-                                    <p>“Let us protect Sanatana Dharma”</p>
+                                    <p>“Let us protect Santhana Dharma”</p>
                                     <h1>Participate & <span>donate!</span></h1>
                                     <!--<div class="slider-btn">
                                         <a href="#">donate now</a>
@@ -90,7 +90,7 @@
                 <!-- Who Content Start -->
                 <div class="who-content">
                     <h2>who we <span>are</span></h2>
-                    <P>Savetemples Bharat  has been Established in the Year 2015  with a selfless Mission to support and save Hindu Temples and Santhana Dharma with the inspiration of  Sri Sir Sri His Holiness Sri TridandiRamanuja China JiyyarSwamyji,  Sri SriSwaroopananda, Saradapeetam, Vizag, Sri SubrahmanyaSwamyji, Member of Parliament , Prof Velagapudi Prakash Rao, Founder of Save temples.org, USA.</P>
+                    <P>Savetemples Bharat  has been Established in the Year 2015  with a selfless Mission to support and save Hindu Temples and Santhana Dharma with the inspiration of  Sri Sir Sri His Holiness Sri Tridandi Ramanuja China Jiyyar Swamyji,  Sri SriSwaroopananda, Saradapeetam, Vizag, Sri SubrahmanyaSwamyji, Member of Parliament, Founder of Save temples.org, USA.</P>
 
                 </div>
                 <!-- Who Content End -->

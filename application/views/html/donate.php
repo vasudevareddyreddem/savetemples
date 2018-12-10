@@ -25,7 +25,7 @@
                 <div class="col-md-12 col-sm-12">
                     <div class="">
                         <h3 class="mb-20">Request for Sponsership</h3>
-                        <p class="mb-40">We are associated with few Gowshala's, senior Citizen Homes, Archakas, Poor Artist's, organizations, Veda vidyalaya's. Your contribution's as per your request will be forward to the organizations. Transaction details will be sent to the sponsor. Details of the Bank account are given at "Donate". Pls send your contributions to support the cause of Sanathan Dharma.</p>
+                        <p class="mb-40">We are associated with few Gowshala's, senior Citizen Homes, Archakas, Poor Artist's, organizations, Veda vidyalaya's. Your contribution's as per your request will be forward to the organizations. Transaction details will be sent to the sponsor. Details of the Bank account are given at "Donate". Pls send your contributions to support the cause of Santhana Dharma.</p>
                         <div class="row about-us">
                             <div class="col-md-3">
                                 <img src="<?php echo base_url(); ?>assets/vendor/images/donate/cow.png" alt="image" width="100px" height="100px">
@@ -55,9 +55,6 @@
                                 <img src="<?php echo base_url(); ?>assets/vendor/images/donate/welfare.jpg" alt="image" width="150px" height="100px">
 						<p class="p-custom">Archaka welfare</p>
                             </div>
-                        
-                        
-                        
                         
                         </div>
                         
@@ -106,7 +103,7 @@
                                             <span>Save Temples Bharat</span>
                                         </li>
                                         <li>
-                                            <p>Your bank account Number -</p>
+                                            <p>Bank account Number -</p>
                                             <span>058694600001014</span>
                                         </li>
                                         <li>

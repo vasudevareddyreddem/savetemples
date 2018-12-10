@@ -28,7 +28,7 @@
                         <span>
                             <img src="<?php echo base_url(); ?>assets/vendor/images/icon.png" alt="icon">
                         </span>
-                        <p>A dedicated and committed team joined mission of  protecting Santana Dharma.</p>
+                        <p>A dedicated and committed team joined mission of  protecting Santhana Dharma.</p>
                     </div>
                     <!-- Section heading End -->
                 </div>

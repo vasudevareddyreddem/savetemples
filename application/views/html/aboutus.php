@@ -19,7 +19,7 @@
                 <div class="col-md-12 col-sm-12">
                     <div class="about-us">
                         <h3>Our Activities</h3>
-                        <p class="p-custom">Organizing symposiums on protection of Sanathana Dharma</p>   
+                        <p class="p-custom">Organizing symposiums on protection of Santhana Dharma</p>   
 						<p class="p-custom">Renovation of Ancient Temples by receiving donations from Devotees</p>
 						<p class="p-custom">Promotion of Santhana Dharma by organizing Festivals, Spiritual discourses, film festivals, Temple art forms festivals</p>
 						<p class="p-custom">Serving Hindu Ashrams, Mutts and movements</p>
