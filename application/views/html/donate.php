@@ -24,7 +24,7 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12">
                     <div class="about-us">
-                        <h3>Our Sponsors</h3>
+                        <h3>Request for Sponsership</h3>
                         <div class="row">
                             <div class="col-md-3">
                                 <img src="<?php echo base_url(); ?>assets/vendor/images/donate/cow.png" alt="image" width="100px" height="100px">
@@ -51,7 +51,7 @@
 						<p class="p-custom">Literature, Audio , Video documentation etc</p>
                             </div>
                             <div class="col-md-3">
-                                <img src="<?php echo base_url(); ?>assets/vendor/images/donate/welfare.jpg" alt="image" width="150px" height="100px">
+                                <img src="<?php echo base_url(); ?>assets/vendor/images/donate/welfare.png" alt="image" width="150px" height="100px">
 						<p class="p-custom">Archaka welfare</p>
                             </div>
                         

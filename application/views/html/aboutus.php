@@ -20,13 +20,13 @@
                     <div class="about-us">
                         <h3>Our Activities</h3>
                         <p class="p-custom">Organizing symposiums on protection of Sanathana Dharma</p>   
-						<p class="p-custom">Renovation of Ancient Temples by taking donations from Devotees</p>
-						<p class="p-custom">Promotion of Santhana Dharma by organizing, Festivals, Spiritual discourses, film festivals, Temple art forms festivals</p>
+						<p class="p-custom">Renovation of Ancient Temples by receiving donations from Devotees</p>
+						<p class="p-custom">Promotion of Santhana Dharma by organizing Festivals, Spiritual discourses, film festivals, Temple art forms festivals</p>
 						<p class="p-custom">Serving Hindu Ashrams, Mutts and movements</p>
 						<p class="p-custom">Serving Gowshals and promoting Gow product's</p>
 						<p class="p-custom">Serving Veda Schools and Vedic Pandits</p>
-						<p class="p-custom">Promoting NadeeHarati ( harathi to Holy Rivers)</p>
-						<p class="p-custom">Serving AlayaArchakas</p>
+						<p class="p-custom">Promoting Nadee Harati ( harathi to Holy Rivers)</p>
+						<p class="p-custom">Serving Alaya Archakas</p>
 						<p class="p-custom">Establishing Temple museums</p>
 						<p class="p-custom">Raising funds through musical concerts to support Ancient Temples</p>
 						<p class="p-custom">Celebrating Jayanthi & Vardhanthi of  Hindu Saints..</p>

@@ -9,8 +9,9 @@
                         <div class="slider-content-area">
                             <div class="container">
                                 <div class="slider-content">
-                                    <h1>we can spread love <br> by <span>donate!</span></h1>
-                                    <p>“It’s not how much we give but how much love we put into giving.”</p>
+                                    <p>“Let us protect Sanatana Dharma”</p>
+                                    <h1>Participate & <span>donate!</span></h1>
+                                    
                                     <!--<div class="slider-btn">
                                         <a href="#">donate now</a>
                                         <a href="#">learn more</a>
@@ -30,8 +31,8 @@
                         <div class="slider-content-area">
                             <div class="container">
                                 <div class="slider-content">
-                                    <h1>we can spread love <br> by <span>donate!</span></h1>
-                                    <p>“No one has ever become poor by giving.”</p>
+                                    <p>“Let us protect Sanatana Dharma”</p>
+                                    <h1>Participate & <span>donate!</span></h1>
                                     <!--<div class="slider-btn">
                                         <a href="#">donate now</a>
                                         <a href="#">learn more</a>
@@ -52,8 +53,8 @@
                         <div class="slider-content-area">
                             <div class="container">
                                 <div class="slider-content">
-                                    <h1>we can spread love <br> by <span>donate!</span></h1>
-                                    <p>“The difference between a helping hand and an outstretched palm is a twist of the wrist.”</p>
+                                    <p>“Let us protect Sanatana Dharma”</p>
+                                    <h1>Participate & <span>donate!</span></h1>
                                     <!--<div class="slider-btn">
                                         <a href="#">donate now</a>
                                         <a href="#">learn more</a>

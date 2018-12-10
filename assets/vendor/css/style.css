@@ -1570,9 +1570,8 @@ blockquote:after,
 }
 .slider-item .slider-content-area .slider-content p {
   color: rgba(255, 255, 255, 0.9);
-  max-width: 550px;
   margin: 15px 0px;
-  margin-bottom: 50px;
+    font-size: 40px;
 }
 @media screen and (max-width: 768px) {
   .slider-item .slider-content-area .slider-content p {
