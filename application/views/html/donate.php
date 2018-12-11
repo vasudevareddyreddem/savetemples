@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="breadcrumb-content">
-                        <h2>Sponsors & Donation</h2>
+                        <h2>Sponsor & Donation</h2>
                         <ul>
                             <li><a href="#">Home</a></li>
                             <li>Donation</li>

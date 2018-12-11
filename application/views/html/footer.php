@@ -92,7 +92,7 @@
                                                     <li>
                                                         <a href="<?php echo base_url('donate'); ?>">
                                                             <i class="fa fa-angle-double-right" aria-hidden="true"></i>
-                                                        <span>our sponsors</span>
+                                                        <span>Sponsor</span>
                                                         </a>
                                                     </li>
                                             
