@@ -23,7 +23,7 @@
 						<p class="p-custom">Renovation of Ancient Temples by receiving donations from Devotees</p>
 						<p class="p-custom">Promotion of Santhana Dharma by organizing Festivals, Spiritual discourses, film festivals, Temple art forms festivals</p>
 						<p class="p-custom">Serving Hindu Ashrams, Mutts and movements</p>
-						<p class="p-custom">Serving Gowshals and promoting Gow product's</p>
+						<p class="p-custom">Serving Gowshalas and promoting Gow products</p>
 						<p class="p-custom">Serving Veda Schools and Vedic Pandits</p>
 						<p class="p-custom">Promoting Nadee Harati ( harathi to Holy Rivers)</p>
 						<p class="p-custom">Serving Alaya Archakas</p>

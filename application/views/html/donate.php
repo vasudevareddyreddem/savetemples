@@ -24,7 +24,7 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12">
                     <div class="">
-                        <h3 class="mb-20">Request for Sponsership</h3>
+                        <h3 class="mb-20">Request for Sponsorship</h3>
                         <p class="mb-40">We are associated with few Gowshala's, senior Citizen Homes, Archakas, Poor Artist's, organizations, Veda vidyalaya's. Your contribution's as per your request will be forward to the organizations. Transaction details will be sent to the sponsor. Details of the Bank account are given at "Donate". Pls send your contributions to support the cause of Santhana Dharma.</p>
                         <div class="row about-us">
                             <div class="col-md-3">

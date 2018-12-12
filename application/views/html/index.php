@@ -90,7 +90,7 @@
                 <!-- Who Content Start -->
                 <div class="who-content">
                     <h2>who we <span>are</span></h2>
-                    <P>Savetemples Bharat  has been Established in the Year 2015  with a selfless Mission to support and save Hindu Temples and Santhana Dharma with the inspiration of  Sri Sir Sri His Holiness Sri Tridandi Ramanuja China Jiyyar Swamyji,  Sri SriSwaroopananda, Saradapeetam, Vizag, Sri SubrahmanyaSwamyji, Member of Parliament, Founder of Save temples.org, USA.</P>
+                    <P>Savetemples Bharat  has been Established in the Year 2015  with a selfless Mission to support and save Hindu Temples and Santhana Dharma with the inspiration of  Sri Sir Sri His Holiness Sri Tridandi Ramanuja China Jiyyar Swamyji, Sri Swaroopanandendra Swamiji, Saradapeetam, Vizag, Sri Subramanian Swamy, Member of Parliament, Founder of Save temples.org, USA.</P>
 
                 </div>
                 <!-- Who Content End -->
